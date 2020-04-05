@@ -1,2 +1,2 @@
 echo "vineet" > name.txt
-mv name.txt /home/ivineet/newname.txt
+mv name.txt /home/iivineet/newname.txt
